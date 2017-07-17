@@ -4,9 +4,10 @@ public class HelloIava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testing ");
+		System.out.println("TestING ");
 		// change
 		System.out.println("Testing for commit 3");
+		System.out.println("Testing for branch2");
 
 	}
 
